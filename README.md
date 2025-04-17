@@ -1,3 +1,5 @@
+This is just a sample of a current much larger project I'm working on.  I built this framework to provide codeless tools to my hobby game development team and to supplement my own efforts in a simpler way.  This is just an example of my design practices.  I made this independently 0-1, with the xNode library in Unity 6+.  This is one of several codeless tools I'm building for the purpose of a hobby game project.  The code probably will not compile as it is removed from the greater codebase.
+
 Full documentation on use here:  https://docs.google.com/presentation/d/1Dz3gMKTi7h7Tl1czQKlVzRvrqzNUKcLPR0lsil6-jvM/edit?usp=sharing
 
 ![graph_1](https://github.com/user-attachments/assets/2f90c2e9-2772-4e60-a86e-f05b14e20dac)
