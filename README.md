@@ -1,3 +1,5 @@
+Full documentation on use here:  https://docs.google.com/presentation/d/1Dz3gMKTi7h7Tl1czQKlVzRvrqzNUKcLPR0lsil6-jvM/edit?usp=sharing
+
 ![graph_1](https://github.com/user-attachments/assets/2f90c2e9-2772-4e60-a86e-f05b14e20dac)
 
 This graph depicts a macro which initializes the "projector boundaries" of the arena.  The player's drone assistant flies to the center of the screen, then launches 3 miniature drones which then activate the hologram projections that create the game boundaries.
